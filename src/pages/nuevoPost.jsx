@@ -116,7 +116,7 @@ export default function NuevoPost() {
             onChange={(e) => setTexto(e.target.value)}
             rows={4}
             style={{
-              width: "100%", padding: "12px 16px", borderRadius: "12px",
+              width: "100%", padding: "12px 10px", borderRadius: "12px",
               border: "1.5px solid #e0d8cc", fontSize: "15px",
               background: "#faf8f4", outline: "none", resize: "none",
               fontFamily: "'Nunito', sans-serif", marginBottom: "16px",
